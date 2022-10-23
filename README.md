@@ -10,7 +10,9 @@ The reason I built a responsive website is to make it diferent for every type of
 
 ## Installation
 
+    Click on the link below
 
+https://amcphotography.vercel.app/
 
 
 ## Usage
