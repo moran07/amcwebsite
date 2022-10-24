@@ -69,11 +69,11 @@ body{
 }
 
 p {
-    font-family: 'Satisfy', cursive;
+    font-family: 'Nanum Myeongjo', serif;
 }
 
 h1, h2{
-    font-family: 'Nanum Myeongjo', serif;
+    font-family: 'Satisfy', cursive;
     line-height: 1.1;
     font-weight: 400;
 }
