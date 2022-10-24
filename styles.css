@@ -73,7 +73,7 @@ p {
 }
 
 h1, h2{
-    font-family: 'Satisfy', cursive;
+        font-family: 'Satisfy', cursive;
     line-height: 1.1;
     font-weight: 400;
 }
@@ -272,7 +272,7 @@ nav {
 
 .header_frames {
     position: absolute;
-    top: 114vh;
+    top: 130vh;
     left: 40rem;
     transition: var(--transition);
 }
@@ -955,24 +955,5 @@ footer {
         flex-direction: column;
         gap: 2rem;
         margin-top: 5rem;
-    }
-}
-
-
-@media screen and (max-width: 1280px) {
-
-    header {
-        margin-top: 3rem;
-        height: fit-content;
-        padding: 14rem 0 12rem,;
-        display: grid;
-        place-items: center;
-    }
-
-    .header_frames {
-        position: absolute;
-        top: 95vh;
-        left: 40rem;
-        transition: var(--transition);
     }
 }
