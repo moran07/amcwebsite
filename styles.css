@@ -69,11 +69,11 @@ body{
 }
 
 p {
-    font-family: 'Mendl Serif Trial', sans-serif;
+    font-family: 'Lobster', cursive;
 }
 
 h1, h2{
-    font-family: 'Exotic Queen', sans-serif;
+    font-family: 'Caveat', cursive;
     line-height: 1.1;
     font-weight: 400;
 }
@@ -110,7 +110,7 @@ img {
 }
 
 nav {
-    font-family: 'Mendl Serif Trial', sans-serif;
+    font-family: 'Lobster', cursive;
     height: 5rem;
     width: 100vw;
     display: grid;
@@ -256,7 +256,7 @@ nav {
 }
 
 .header_tag {
-    font-family: 'Mendl Serif Trial', sans-serif;
+    font-family: 'Lobster', cursive;
     color: var(--color-primary-variant);
 }
 
@@ -272,8 +272,8 @@ nav {
 
 .header_frames {
     position: absolute;
-    top: 135vh;
-    left: 38rem;
+    top: 114vh;
+    left: 40rem;
     transition: var(--transition);
 }
 
