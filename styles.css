@@ -69,11 +69,11 @@ body{
 }
 
 p {
-    font-family: 'Lobster', cursive;
+    font-family: 'Satisfy', cursive;
 }
 
 h1, h2{
-    font-family: 'Caveat', cursive;
+    font-family: 'Nanum Myeongjo', serif;
     line-height: 1.1;
     font-weight: 400;
 }
@@ -110,7 +110,7 @@ img {
 }
 
 nav {
-    font-family: 'Lobster', cursive;
+    font-family: 'Satisfy', cursive;
     height: 5rem;
     width: 100vw;
     display: grid;
@@ -256,7 +256,7 @@ nav {
 }
 
 .header_tag {
-    font-family: 'Lobster', cursive;
+    font-family: 'Satisfy', cursive;
     color: var(--color-primary-variant);
 }
 
