@@ -1,5 +1,7 @@
 # Photography Portofolio Website
 
+<a href="https://amcphotography.vercel.app/"><strong>➥ Live Demo</strong></a>
+
 ## Description
 
 The porpuse of this website its to make it inmersive with the user.
@@ -10,12 +12,16 @@ The reason I built a responsive website is to make it diferent for every type of
 
 ## Installation
 
+You can open this project by cloning this repository
+```bash
+git clone https://github.com/moran07/amcwebsite.git
+```
+
+## Usage
+
     Click on the link below
 
 https://amcphotography.vercel.app/
-
-
-## Usage
 
 Scroll trough the pages and click on images to see differents movements
 
