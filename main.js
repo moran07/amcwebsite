@@ -64,3 +64,18 @@ nav.querySelectorAll('li a').forEach(navLink => {
     navLink.addEventListener('click', closeNav);
 })
 
+// const toggle = document.getElementById('toggle_Dark');
+// const body = document.querySelector('body');
+
+// toggle.addEventListener('click', function(){
+//     this.classList.toggle('uil-moon');
+//     if(this.classList.toggle('uil-sun')){
+//         body.style.background = '--color-bg-1';
+//         body.style.color = '--color-primary-variant';
+//         body.style.transition = '2s';
+//     }else {
+//         body.style.background = '--color-bg-1';
+//         body.style.color = '--color-primary-variant'
+//         body.style.transition = '2s';
+//     }
+// })

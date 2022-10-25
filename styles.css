@@ -179,7 +179,6 @@ nav {
     gap: 1rem;
 }
 
-
 .soloLearn {
     width: 1.2rem;
     animation: spinsoloLearn 5s linear infinite;
@@ -624,6 +623,20 @@ footer {
     gap: 5rem;
 }
 
+/* .dark-theme {
+    --color-primary: #ff7b02;
+    --color-primary-variant: #e5a55d;
+    --color-bg-1: #000e17;
+    --color-bg-2: #001e2d;
+    --color-bg-3: #012734;
+    --color-bg-4: #003437;
+    --color-light:#85a2b2;
+    --color-white: hsl(0, 0%, 90%);
+} */
+
+/* .icon {
+    cursor: pointer;
+} */
 
 
 /* --------------------------------MEDIA QUERIES (medium screens)----------------------------  */
