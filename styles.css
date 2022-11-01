@@ -285,7 +285,7 @@ nav {
 }
 
 .header_right p {
-    margin-top: 5rem;
+    margin-top: 3rem;
     width: 85%;
 }
 
@@ -296,8 +296,8 @@ nav {
 
 .header_frames {
     position: absolute;
-    top: 130vh;
-    left: 40rem;
+    top: 102%;
+    left: 52.2%;
     transition: var(--transition);
 }
 
