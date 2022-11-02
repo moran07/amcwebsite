@@ -700,7 +700,7 @@ footer {
     }
 
     .nav_links li a {
-        background: var(--color-primary-variant);
+        background: var(--color-bg-1);
         height: 100%;
         width: 100%;
         display: flex;
